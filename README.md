@@ -2,7 +2,7 @@
 <h1 align="center"><b>Hi , I'm Prozec </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Get+High+End,+Intuitive+Designs;++;Custom+CRM+Solutions,;Mobile+App+Development,;E-Commerce Store,;Do+you+want+to+give+life+to+your+idea?,;Lets+make+it+happen!<3"></a>
 </p>
 
 
@@ -21,7 +21,7 @@
 - Exploring new technologies all time
 - Developing High End B2B and B2C custom solutions
 - Personal website [link](https://www.movingpandastudios.com)
-- I’m open for new projects, this is [my upworke](https://upwork.com/)
+- I’m open for new projects, this is [my upwork](https://upwork.com/)
 
 <br><br>
 
